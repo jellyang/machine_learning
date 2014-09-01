@@ -9,3 +9,8 @@ Implement logistic regression and apply it to two different datasets.
 ##Exercise 3: Multi-class Classification and Neural Networks
 
 Implement one-vs-all logistic regression and neural networks to recognize hand-written digits.
+
+##Exercise 4: Neural Networks Learning
+
+Implement the backpropagation algorithm for neural
+networks and apply it to hand-written digit recognition.
